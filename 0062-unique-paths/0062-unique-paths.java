@@ -1,5 +1,5 @@
 class Solution {
-    static int arr[][] = new int[500][500];
+    static int arr[][] = new int[150][150];
     public int uniquePaths(int m, int n) {
         if(m==1&&n==1){
             return arr[m][n]=1;
