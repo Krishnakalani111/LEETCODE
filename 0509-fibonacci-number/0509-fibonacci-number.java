@@ -1,3 +1,4 @@
+//memoziation method
 class Solution {
     static  int []term = new int [1000];
     public int fib(int n) {
